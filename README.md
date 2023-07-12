@@ -1,2 +1,4 @@
 # uni-index-list
-uniapp索引列表
+uniapp index 索引列表
+
+> **组件名：uni-index-list**
